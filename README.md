@@ -3,7 +3,9 @@
 ## Description
 This repo is a quick and basic Implementation Picture to Picture mode.
 
-Developed by David Cruz
+![image.gif](images/image.gif)
+
+Developed by [David Cruz](https://medium.com/@dacran)
 
 * Contact me: [Link](https://www.davidcruz.co.uk/contact)
 * My web: [Link](https://www.davidcruz.co.uk/)
